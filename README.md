@@ -39,6 +39,7 @@ Information Security Manager & DevOps
 
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
 
 <br>
