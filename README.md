@@ -1,5 +1,6 @@
 # ▎Hello,<br>▎I'm Rony
 <br>
+Information Security Manager & DevOps
 
 ## ✨ Tech Stack ✨
 <div style="display:flex; flex-direction:row;">
