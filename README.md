@@ -1,4 +1,12 @@
-<!--내용 부분-->
+<h3 align="center"> 📞 Contact 📞</h3>
+<div style="display:flex; flex-direction:row;">
+    <a href="hpjoo718@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
+
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
