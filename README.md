@@ -1,4 +1,4 @@
-##📞 Contact 📞
+## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="hpjoo718@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -7,7 +7,8 @@
 
 <br>
 
-##✨ Tech Stack ✨
+## ✨ Tech Stack ✨
+<div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
