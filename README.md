@@ -1,9 +1,6 @@
 # ▎Hello,<br>▎I'm Rony
 <br>
 
-## ▎🧑‍💻 Portfolio Notion
-- ### [zoocandoit](https://zoocandoit.notion.site/)
-
 ## ✨ Tech Stack ✨
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
@@ -39,3 +36,8 @@
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
 </div>
+
+<br>
+
+## ▎🧑‍💻 Portfolio Notion
+- ### [zoocandoit](https://zoocandoit.notion.site/)
