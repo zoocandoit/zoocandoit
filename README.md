@@ -1,6 +1,9 @@
 # ▎Hello,<br>▎I'm Rony
 <br>
 
+## ▎🧑‍💻 Portfolio Notion
+- ### [zoocandoit](https://zoocandoit.notion.site/)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="hpjoo718@gmail.com">
