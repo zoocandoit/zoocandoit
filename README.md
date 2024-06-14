@@ -4,6 +4,8 @@ Information Security Manager & DevOps
 <br>
 
 ## ✨ Tech Stack ✨
+
+#### Language
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
@@ -15,6 +17,7 @@ Information Security Manager & DevOps
 
 <br>
 
+#### DB
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
@@ -24,6 +27,7 @@ Information Security Manager & DevOps
 
 <br>
 
+#### DevOps
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
@@ -44,6 +48,7 @@ Information Security Manager & DevOps
 
 <br>
 
+#### AI&ML
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)">
