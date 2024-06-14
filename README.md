@@ -3,7 +3,7 @@ Information Security Manager & DevOps
 
 <br>
 
-## ✨ Tech Stack ✨
+## ▎✨ Tech Stack ✨
 
 #### Language
 <div style="display:flex; flex-direction:row;">
