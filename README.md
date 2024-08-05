@@ -57,5 +57,5 @@ Information Security Manager & DevOps
 
 <br>
 
-## ▎🧑‍💻 Portfolio Notion
-- ### [zoocandoit](https://zoocandoit.notion.site/)
+## ▎🧑‍💻 Contact me
+- ### [zoocandoit](www.linkedin.com/in/jooyoung-roh/)
