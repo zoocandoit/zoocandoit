@@ -58,4 +58,4 @@ Information Security Manager & DevOps
 <br>
 
 ## ▎🧑‍💻 Contact me
-- ### [rony](www.linkedin.com/in/jooyoung-roh/)
+- ### [LinkedIn](www.linkedin.com/in/jooyoung-roh/)
