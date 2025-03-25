@@ -48,13 +48,6 @@ Security Manager & DevOps
 
 <br>
 
-#### AI&ML
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)">
-</div>
-
-<br>
 
 ## ▎🧑‍💻 Contact me
 - ### [LinkedIn](https://www.linkedin.com/in/jooyoung-roh/)
