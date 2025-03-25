@@ -1,5 +1,5 @@
 # ▎zoocandoit's Github
-Security Manager & DevOps
+Security & DevOps
 
 <br>
 
