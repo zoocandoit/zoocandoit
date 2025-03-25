@@ -1,5 +1,5 @@
 # ▎zoocandoit's Github
-Information Security Manager & DevOps
+Security Manager & DevOps
 
 <br>
 
